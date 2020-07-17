@@ -1,0 +1,255 @@
+Acetals 
+Agate 
+Acrylic 
+Agate 
+Alabaster carbonate 
+Alabaster sulfate 
+Alum, lumpy 
+Alum, pulverized 
+Alumina (aluminium oxide) 
+Aluminum 
+Aluminum Bronze 
+Albite 
+Amber 
+Amphiboles 
+Andesite, solid 
+Anorthite 
+Antimony, cast 
+Arsenic 
+Artificial Wool 
+Asbestos 
+Asbestos, shredded 
+Asbestos, solid 
+Ashes 
+Asphalt, compacted 
+Asphalt, crushed 
+Bakelite 
+Baking powder 
+Balsa Wood 
+Barite, crushed 
+Barium 
+Bark, wood refuse 
+Barytes 
+Basalt 
+Bauxite, crushed 
+Beeswax 
+Beryl 
+Beryllia 
+Beryllium 
+Biotite 
+Bismuth 
+Boiler scale 
+Bone 
+Bone, pulverized 
+Borax, fine 
+Brasses 
+Bronzes 
+Brown iron ore 
+Brick 
+Brick, fire 
+Brick, hard 
+Brick, pressed 
+Brickwork in cement 
+Brickwork in mortar 
+Butter 
+Cadmium 
+Calamine 
+Calcium 
+Calcspar 
+Camphor 
+Carbon 
+Caoutchouc 
+Cardboard 
+Cast Iron 
+Celluloid 
+Cellulose, cotton, wood pulp, regenerated 
+Cellulose acetat, moulded 
+Cellulose acetat, sheet 
+Cellulose nitrate, celluloid 
+Chlorinated polyether 
+Cement, set 
+Cement, Portland 
+Cerium 
+Chalk 
+Charcoal, oak 
+Charcoal, pine 
+Chromium 
+Chrom oxide 
+Cinnabar 
+Clay 
+Coal, anthracite 
+Coal, bituminous 
+Cobalt 
+Cocoa, butter 
+Coke 
+Concrete, lightweight 
+Concrete, medium 
+Concrete, dense 
+Constantan 
+Copal 
+Copper 
+Cork 
+Cork, linoleum 
+Corundum 
+Cotton 
+CPVC - Chlorinated poly vinyl chloride 
+Lead Crystal 
+Diamond 
+Dolomite 
+Duralium 
+Earth, loose 
+Earth, rammed 
+Ebonite 
+Emery 
+Electron 
+Epidote 
+Epoxy cast resin 
+Epoxy glass fibre 
+Expanded polystyrene 
+Feldspar 
+Fire brick 
+Flint 
+Fluorite 
+Galena 
+Gallium 
+Gamboge 
+Gas carbon 
+Gelatin 
+Germanium 
+Glass, common 
+Glass, Pyrex 
+Glass-wool 
+Glue 
+Gneiss 
+Gold 
+Granite 
+Graphite 
+Gum arabic 
+Gypsum 
+Hardboard 
+Hematite 
+Hornblende 
+Ice 
+Iron, cast 
+Iodine 
+Iridium 
+Ivory 
+Kaolin 
+Lead 
+Leather, dry 
+Lime, slaked 
+Limestone 
+Linoleum 
+Lithium 
+Magnesia 
+Magnesium 
+Magnetite 
+Malachite 
+Manganese 
+Marble 
+Meerschaum  
+Mineral wool quilt 
+Molybdenum 
+Muscovite 
+Nickel 
+Nylon  
+Oak 
+Ochre 
+Opal 
+Osmium 
+Palladium 
+Paper 
+Paraffin 
+Peat blocks 
+Phenolic cast resin 
+Phosphorbronce 
+Phosphorus 
+Pinchbeck 
+Pitch 
+Pit coal 
+Plaster board 
+Platinum 
+Plywood 
+Polyacrylonitrile 
+Polyamides 
+PC - poly carbonate 
+PBT - poly butylene terephthalate 
+LDPE - low density poly ethylene 
+HDPE - (PEH) - high density poly ethylene 
+PET - poly ethylene terephthalate 
+PMMA - poly methyl methacrylate 
+POM - poly oxy methylene 
+PP - poly propylene 
+PPO - poly penylene ether 
+PS - poly styrene 
+PTFE - poly tetra fluoro ethylene, Teflon 
+PU - poly urethane foam 
+PVDF - poly vinylidene fluoride 
+Porcelain 
+Porphyry 
+Potassium 
+Pressed wood, pulp board 
+PVC - poly vinyl chloride 
+Pyrex 
+Pyrite 
+Quartz 
+Radium 
+Red lead 
+Red metal 
+Resin 
+Rhenium 
+Rhodium 
+Rock salt 
+Rock wool 
+Rosin 
+Rubber, hard 
+Rubber, soft commercial 
+Rubber, pure gum 
+Rubber, foam 
+Rubidium 
+Sand, dry 
+Sandstone 
+Sapphire 
+Selenium 
+Serpentine 
+Silica, fused transparent 
+Silica, translucent 
+Silicium carbide 
+Silicon 
+Silver 
+Slate 
+Snow 
+Soapstone 
+Sodium 
+Soil 
+Solder 
+Soot 
+Spermaceti 
+Starch 
+Steatite 
+Steel 
+Stone 
+Sulfur, cryst 
+Sugar 
+Talc 
+Tallow, beef 
+Tallow, mutton 
+Tantalum 
+Tar 
+Teflon 
+Tellurium 
+Thoria 
+Thorium 
+Tin 
+Titanium 
+Topaz 
+Tourmaline 
+Tungsten 
+Tungsten carbide 
+Uranium 
+Urethane foam  
+Vanadium 
+Vermiculite 
+Wax, sealing 
+Wood wool slab 
+Zinc 

@@ -1,0 +1,73 @@
+Acetato de amillo
+Acetato de butilo
+Acetato de etilo
+Acetato de metilo
+Acetato de vinilo
+Acetona 100%
+Acido acetico 100%
+Acido acetico 70%
+Acido Butirico
+Acido clorhidrico 31.5%
+Acido formico
+Acido nitrico 95%
+Acido nitrico 60%
+Acido propionico
+Agua
+Alcohol alitico	
+Alcohol amilitio
+Amoniaco 26%
+Anhidrico acetico
+Anilina
+Anisol
+Benceno
+Bromo
+Bromotolueno
+Bromuro de etilo
+Bromuro de propilo
+Butanol
+Ciclohexannol
+Clorobenceno
+Cloroformo
+"Cloruro de calcio, sol 25%"
+Cloruro estannico
+Cloruro de propilo
+Cloruro de sulforilo
+Dibromoetano
+Dicloroetano
+Diclorometano
+Etanol 100%
+Etanol 95%
+Etanol 40%
+Etilbenceno
+Formiato de etilo
+Freon-113
+Glicerina 100%
+Glicerina 50%
+Glicol
+Heptano
+Hexano
+Hidroxido sodico 50%
+Ioduro de etilo
+Ioduro de propilo
+Isopropanol
+Keroseno
+Mercurio
+Metanol 100%
+Metanol 90%
+Metanol 40%
+Metiletilcetona	
+Naftaleno
+Nitrotolueno
+Octano
+Octanol	
+Oxalato de dietilo
+Propanol
+Sodio
+Sulfuro de carbono
+Tetracloro etano
+Tetraclorudo de carbono	
+Tetraclorudo de titanio	
+Tolueno	
+Tricloroetileno	
+Tricloruro de arsenico
+Tricloruro de fosforo
